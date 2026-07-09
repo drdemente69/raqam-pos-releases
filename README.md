@@ -1,1 +1,1 @@
-# Raqam POS — Windows installers. Source lives in raqam-pos-saas.
+# Raqam POS — Windows installers.
